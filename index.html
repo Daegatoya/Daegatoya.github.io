@@ -14,10 +14,15 @@
   margin: 0;
 }
 
-    .typing > *{
-  overflow: hidden;
-  white-space: nowrap;
-  animation: typingAnim 5s steps(100);
+.typing {
+  overflow: hidden; 
+  border-right: .15em solid white;
+  white-space: nowrap; 
+  margin: 0 auto; 
+  letter-spacing: .15em; 
+  animation: 
+    typingAnim 3.5s steps(40, end),
+    blink-caret .75s step-end infinite;
 }
 @keyframes typingAnim{
   from { width: 0 }
