@@ -1,57 +1,18 @@
 <html>
-<link href="https://fonts.googleapis.com/css?family=Waiting+for+the+Sunrise" rel="stylesheet" type="text/css"/>  
-<head>
-  <style>
-    .body {
-  font-family: 'Waiting for the Sunrise', cursive; 
-  font-size:30px; 
-  margin: 10px 50px; 
-  letter-spacing: 6px; 
-  font-weight: bold;
-}
-  </style>
-  <script>
-    var aText = new Array(
-"Welcome on my website!", 
-"Will you be able to find the flag? Good luck!"
-);
-var iSpeed = 100;
-var iIndex = 0;
-var iArrLength = aText[0].length;
-var iScrollAt = 20;
- 
-var iTextPos = 0;
-var sContents = '';
-var iRow; 
- 
-function typewriter()
-{
- sContents =  ' ';
- iRow = Math.max(0, iIndex-iScrollAt);
- var destination = document.getElementById("typedtext");
- 
- while ( iRow < iIndex ) {
-  sContents += aText[iRow++] + '<br />';
- }
- destination.innerHTML = sContents + aText[iIndex].substring(0, iTextPos) + "_";
- if ( iTextPos++ == iArrLength ) {
-  iTextPos = 0;
-  iIndex++;
-  if ( iIndex != aText.length ) {
-   iArrLength = aText[iIndex].length;
-   setTimeout("typewriter()", 500);
-  }
- } else {
-  setTimeout("typewriter()", iSpeed);
- }
-}
-
-
-typewriter();
-  </script>
-  </head>
+<p id="demo"></p>
   <body>
-     <a class="body"></a>
-  <div id="typedtext"></div>
-</body>
+  <script>
+    var i = 0;
+var txt = 'Welcome on my website! Will you be able to find the flag?';
+var speed = 50;
+
+function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("demo").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+}
+  </script>
+  </body>
 </html>
