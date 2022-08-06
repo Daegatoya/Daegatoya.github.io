@@ -1,0 +1,3 @@
+<FilesMatch "(lol\.json)$">
+    deny from all
+</FilesMatch>
