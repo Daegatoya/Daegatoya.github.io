@@ -30,10 +30,10 @@ request.send(null);
         var doc = document.getElementById("1");
   var answer = "";  
                  answer += doc.elements[0].value;
-         if(answer === flag){ //Maybe the flag isn't just a string... Who knows?
+         if(answer === flag){
            alert("Congratulations! You have completed the CTF!")
          }
-         else if(answer !== flag){ //You probably forgot to enter some elements from the sekret file :p
+         else if(answer !== flag){
            alert("Try some more...")
          }
     }
