@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta charset="utf-8" />
+    </head>
+      <body>
+      <h1>Welcome! Don't expect this one to be that hard, it's fairly simple.</h1>
+      <form id="1" action="">
+  Answer: <input type="text" name="send"><br>
+  <input type="button" onclick="flag()" value="Submit">
+</form>
+      <script>
+              var request = new XMLHttpRequest();
+         var regex =/\.[0-9a-z]+$/i;
+var array = [
+    "maybe.sqlite",
+  "maybe.js",
+  "maybe.json",
+  "maybe.php",
+  "maybe.html",
+  "maybe.css",
+]
+var matchit = array[2].match(regex)[0] 
+var path = "res" + matchit;
+       
+                         request.open("GET", path, false);
+request.send(null);
+              function flag() {
+                              var flag = request.responseText;
+        var doc = document.getElementById("1");
+  var answer = "";  
+                 answer += doc.elements[0].value;
+         if(answer === flag){
+           alert("Congratulations! You have completed the CTF!")
+         }
+         else if(answer !== flag){
+           alert("Try some more...")
+         }
+    }
+      </script>
+    </body>
+</html>
