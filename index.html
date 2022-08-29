@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Entry Program</title>
+    <link
+      rel="icon"
+      href="https://i.pinimg.com/originals/c3/90/66/c390669de6ebd5966531072a485a64b4.png"
+    />
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        background-color: rgb(64, 64, 64);
+        font-family: Arial, Helvetica, sans-serif;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        margin: 0;
+      }
+
+      .container {
+        background-color: #fff;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+        width: 450px;
+        max-width: 100%;
+        overflow: hidden;
+      }
+
+      .header {
+        background: #f7f7f7;
+        border-bottom: 1px solid #f0f0f0;
+        padding: 20px 40px;
+        text-align: center;
+      }
+
+      .header h2 {
+        margin: 0;
+      }
+
+      .form {
+        padding: 30px 40px;
+      }
+
+      .form-control {
+        margin-bottom: 10px;
+        padding-bottom: 20px;
+        position: relative;
+      }
+
+      .form-control label {
+        display: inline-block;
+        margin-bottom: 5px;
+      }
+
+      .form-control input {
+        border: 2px solid #f0f0f0;
+        border-radius: 4px;
+        display: block;
+        width: 100%;
+        padding: 10px;
+        font-size: 14px;
+        font-family: inherit;
+      }
+
+      .form-control textarea {
+        border: 2px solid #f0f0f0;
+        border-radius: 4px;
+        display: block;
+        width: 100%;
+        padding: 10px;
+        font-size: 14px;
+        font-family: inherit;
+      }
+
+      .form-control small {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        visibility: hidden;
+      }
+
+      .form button {
+        background-color: #e1e1e1;
+        border: 2px solid #e1e1e1;
+        color: black;
+        display: block;
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+        font-family: inherit;
+        border-radius: 4px;
+      }
+
+      #submission {
+        height: 150px;
+        text-align: left;
+        vertical-align: top;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <img
+          src="http://deshq.com/wp-content/uploads/2018/04/inscomseal.png"
+          width="200px"
+          height="200px"
+        />
+        <h2>Submission Form</h2>
+      </div>
+      <form class="form" id="form">
+        <div class="form-control">
+          <label>Answer:</label>
+          <textarea id="submission" required> </textarea>
+          <small>Error</small>
+        </div>
+
+        <button type="button" id="Submit" onclick="sub()">Submit</button>
+      </form>
+    </div>
+    <script>
+      var httpreq = new XMLHttpRequest();
+      var name = "flag";
+      
+      
+      
+      
+      function _0x3b34() {
+        var _0x45cc3d = [
+          "412421HpXmjl",
+          "1922664HrAFxm",
+          "2251740CQbaAV",
+          "7luEqUQ",
+          ".json",
+          "1055760ehrRjn",
+          "696082WoPDat",
+          "779836mndsur",
+          "10365752wVEfrk",
+        ];
+        _0x3b34 = function () {
+          return _0x45cc3d;
+        };
+        return _0x3b34();
+      }
+      var _0x5252ba = _0x121c;
+      function _0x121c(_0x532f30, _0x428943) {
+        var _0x5791a0 = _0x3b34();
+        return (
+          (_0x121c = function (_0x1b03c6, _0x13fbc8) {
+            _0x1b03c6 = _0x1b03c6 - (-0x25 * -0x19 + -0x333 + -0x1a * -0x3);
+            var _0x184eeb = _0x5791a0[_0x1b03c6];
+            return _0x184eeb;
+          }),
+          _0x121c(_0x532f30, _0x428943)
+        );
+      }
+      (function (_0x3d8f45, _0x460742) {
+        var _0xaebb36 = _0x121c,
+          _0x198b59 = _0x3d8f45();
+        while (!![]) {
+          try {
+            var _0x35c76e =
+              -parseInt(_0xaebb36(0xb8)) /
+                (0x1 * -0x2411 + -0x9b * -0x3f + -0x9 * 0x3b) +
+              -parseInt(_0xaebb36(0xbe)) / (0x140b + 0x1b84 + 0x7 * -0x6cb) +
+              parseInt(_0xaebb36(0xb9)) /
+                (-0x1 * -0x12ef + 0x23c4 + 0x1b58 * -0x2) +
+              -parseInt(_0xaebb36(0xbf)) / (-0x1 * -0x22b7 + -0xb3f + -0x1774) +
+              -parseInt(_0xaebb36(0xba)) /
+                (-0x1da2 * -0x1 + 0x1499 * -0x1 + 0x904 * -0x1) +
+              -parseInt(_0xaebb36(0xbd)) / (0x19b + -0x49b * 0x4 + 0x10d7) +
+              (parseInt(_0xaebb36(0xbb)) /
+                (-0x12e8 + -0xa * -0x244 + -0x1 * 0x3b9)) *
+                (parseInt(_0xaebb36(0xc0)) / (0x1e52 + 0x11 * 0x17b + -0x3775));
+            if (_0x35c76e === _0x460742) break;
+            else _0x198b59["push"](_0x198b59["shift"]());
+          } catch (_0x323dcc) {
+            _0x198b59["push"](_0x198b59["shift"]());
+          }
+        }
+      })(_0x3b34, -0x2a43a + 0x86590 + 0x1d08 * -0x3);
+      var file = name + _0x5252ba(0xbc);
+      
+      
+
+      httpreq.open("GET", file);
+      httpreq.send();
+
+      function sub() {
+        var http = httpreq.response;
+        var t = JSON.stringify(http);
+        var arr = t.split(`"`);
+        var answer = arr[4].replace("\\", "");
+        var text = document.getElementById("submission").value;
+        var text2 = text.replace(" ", "");
+
+        if (text2 === "") {
+          alert("ERROR: Please, input at least 1 character.");
+        } else if (text2 !== answer) {
+          alert("Wrong answer! Try a bit more...");
+          document.getElementById("submission").value = "";
+        } else if (text2 === answer) {
+          alert("Congratulations! You have completed the puzzle!");
+          alert(
+            "Message 𝓜𝓸𝓴𝓲 ~ 🌸#7195 on Discord with a proof you have completed the puzzle."
+          );
+          window.location.replace("end.html")
+        }
+      }
+      
+      
+      
+      
+      function _0x40d7() {
+    var _0x3bd30c = [
+        '7217dqhUUD',
+        '266439ecECUb',
+        '4536pJTJkn',
+        '\x20uh?\x0a',
+        'jZHmL',
+        'aScript?',
+        'd\x20of\x20datab',
+        'use\x20in\x20Jav',
+        '3897099SveFkj',
+        '1712102juAOHq',
+        'Well,\x20ok..',
+        'vVCCg',
+        'nt\x20an\x20hint',
+        'ase\x20do\x20we\x20',
+        'log',
+        '70dYYzVC',
+        '248501pwFZxr',
+        '.\x20What\x20kin',
+        '224570EObRiV',
+        '5215CpaDQB',
+        '36OFLHgQ',
+        '72KlNVdT',
+        'So,\x20you\x20wa'
+    ];
+    _0x40d7 = function () {
+        return _0x3bd30c;
+    };
+    return _0x40d7();
+}
+(function (_0x362d90, _0x267eb7) {
+    var _0x4d6a75 = _0x54dd, _0x5218dc = _0x362d90();
+    while (!![]) {
+        try {
+            var _0x591baf = parseInt(_0x4d6a75(0x164)) / (0x1b * 0x161 + -0x935 + -0x1c05) + -parseInt(_0x4d6a75(0x172)) / (0x10fc * 0x1 + -0x35f * 0x6 + 0xd0 * 0x4) + parseInt(_0x4d6a75(0x16a)) / (-0x1884 + 0x2b * 0x9d + 0x4 * -0x76) * (parseInt(_0x4d6a75(0x166)) / (-0x185d + 0x76 + 0x17eb)) + -parseInt(_0x4d6a75(0x165)) / (-0x2139 + 0x24df + -0x3a1) * (parseInt(_0x4d6a75(0x167)) / (0x1 * -0x1505 + 0xef3 + 0x618)) + parseInt(_0x4d6a75(0x169)) / (0x3 * 0x411 + -0x3 * 0x1a3 + -0x743 * 0x1) * (parseInt(_0x4d6a75(0x16b)) / (0x231c + 0x161c + -0x16e * 0x28)) + -parseInt(_0x4d6a75(0x171)) / (0x4e3 + -0xf * 0xc3 + 0x693) + parseInt(_0x4d6a75(0x178)) / (0x49f * -0x5 + -0x21b9 + -0xfb * -0x3a) * (parseInt(_0x4d6a75(0x162)) / (-0xc * -0x18e + 0x10f7 * 0x1 + 0x8e5 * -0x4));
+            if (_0x591baf === _0x267eb7)
+                break;
+            else
+                _0x5218dc['push'](_0x5218dc['shift']());
+        } catch (_0x3112da) {
+            _0x5218dc['push'](_0x5218dc['shift']());
+        }
+    }
+}(_0x40d7, 0x97f * 0xb3 + 0x11 * 0x7d02 + -0x7d870));
+function _0x54dd(_0xf65271, _0x5e4af2) {
+    var _0x3b2ef8 = _0x40d7();
+    return _0x54dd = function (_0x3cb821, _0x17fab0) {
+        _0x3cb821 = _0x3cb821 - (0x19c * 0x4 + -0x7 * -0xf7 + -0xbcf * 0x1);
+        var _0x3a370c = _0x3b2ef8[_0x3cb821];
+        return _0x3a370c;
+    }, _0x54dd(_0xf65271, _0x5e4af2);
+}
+function hint() {
+    var _0x5a01d3 = _0x54dd, _0x4e626a = {
+            'jZHmL': _0x5a01d3(0x168) + _0x5a01d3(0x175) + _0x5a01d3(0x16c),
+            'vVCCg': _0x5a01d3(0x173) + _0x5a01d3(0x163) + _0x5a01d3(0x16f) + _0x5a01d3(0x176) + _0x5a01d3(0x170) + _0x5a01d3(0x16e)
+        };
+    console[_0x5a01d3(0x177)](_0x4e626a[_0x5a01d3(0x16d)]), console[_0x5a01d3(0x177)](_0x4e626a[_0x5a01d3(0x174)]);
+}
+    </script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Stuck? Fine... Run hint(); in the console of the website... -->
