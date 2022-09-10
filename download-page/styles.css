@@ -120,8 +120,14 @@ body {
     z-index: 1;
 }
 
+@keyframes mymove {
+    50% {font-size: 30px;}
+  }
 .button:hover{
+    cursor: pointer;
+    background-color: rgba(241, 157, 0, 0.301);
     color: #ce9d5e;
+    animation: mymove 750ms infinite;
 }
 
 .button:active{
