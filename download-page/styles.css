@@ -47,7 +47,7 @@ body {
     z-index: 0;
     animation: loop;
     border-bottom: 5px solid darkblue;
-    animation-duration: 20s;
+    animation-duration: 10s;
     animation-delay: 0ms;
     transition-timing-function: cubic-bezier(.88,.9,.68,-0.45);
     animation-iteration-count: infinite;
@@ -114,24 +114,17 @@ body {
     text-align: center;
     font-size: 1.5em;
     border: 3px solid #B2782C;
-    background-color: transparent;
+    background-color: rgba(222, 187, 99, 0);
     color: #B2782C;
+    transition: 0.5s;
     border-radius: 50px;
     z-index: 1;
 }
 
-@keyframes mymove {
-    50% {font-size: 30px;}
-  }
 .button:hover{
+    background-color: rgba(222, 187, 99, 0.29);
+    font-size: 1.7em;
     cursor: pointer;
-    background-color: rgba(241, 157, 0, 0.301);
-    color: #ce9d5e;
-    animation: mymove 750ms infinite;
-}
-
-.button:active{
-    font-size: 1.8em;
 }
 
 @keyframes loop{
@@ -163,9 +156,10 @@ body {
         font-size: 1.3em;
         width: 70%;
     }
-    .button:active{
+    .button:hover{
         font-size: 1.4em;
     }
+    
 }
 
 @media only screen and (max-width: 600px) {
@@ -185,9 +179,7 @@ body {
         font-size: 1.1em;
         width: 100%;
     }
-    .button {
+    .button:hover{
         font-size: 1.2em;
-        width: 100%;
     }
 }
-
