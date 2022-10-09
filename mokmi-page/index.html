@@ -32,16 +32,21 @@
         <audio id="myAudio5">
             <source src="glitch4.mp3" type="audio/mpeg">
         </audio>
+        <audio id="myAudio6">
+            <source src="Distortion Sound Effect (128 kbps)-[AudioTrimmer.com].mp3" type="audio/mpeg">
+        </audio>
         <script>
             const x = document.getElementById("1");
             const y = document.getElementById("2");
             const z = document.getElementById("3");
             const a = document.getElementById("4");
             function lol(){
+                var arr3 = ["bg2", "bg4", "bg5"];
                 document.getElementById("myAudio2").play();
                var song1 = document.getElementById("myAudio3")
                 var song2 = document.getElementById("myAudio4")
                 var song3 = document.getElementById("myAudio5")
+                var scream = document.getElementById("myAudio6")
                 var msg1 = "TypeError: 'x' is not iterable"
                        var msg2 = "Error: Permission denied to access property \"x\""
                        var msg3 = "InternalError: too much recursion"
@@ -66,12 +71,20 @@
     document.getElementById("image").src = "https://thumbs.gfycat.com/OffensiveUniqueHornet-size_restricted.gif"
     setInterval(function(){
         var pog = arr[~~(Math.random() * arr.length) | 0];
-z.className = "bg2";
+        var pog3 = arr3[~~(Math.random() * arr3.length) | 0];
+        var f = Math.floor(Math.random() * (50 - 1) + 1)
+        if(f !== 34){
+z.className = pog3;
 pog.play();
+        }
+else if(f === 34){
+    z.className = "bg6";
+scream.play();
+}
 setTimeout(function(){
     z.className = "bg3";
-}, 500)
-    }, 10000)
+}, Math.floor(Math.random() * (1000 - 100) + 100))
+    }, Math.floor(Math.random() * (8000 - 2000) + 2000))
                 }, 2000)
             }
         </script>

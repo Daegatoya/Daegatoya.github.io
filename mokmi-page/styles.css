@@ -76,6 +76,36 @@ body {
     background-repeat: no-repeat;
     background-image: url("../mokmi-page/images/dcwk1rq-ed340bf9-1c33-4a83-818f-c572eeb63522.gif");
 }
+.bg4{
+    width: 140%;
+    height: 100%;
+    opacity: 100%;
+    background-color: black;
+    background-size: cover;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-image: url("../mokmi-page/images/testlol.gif");
+}
+.bg5{
+    width: 140%;
+    height: 100%;
+    opacity: 100%;
+    background-color: black;
+    background-size: cover;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-image: url("../mokmi-page/images/tumblr_539b03542320559bdf4b53592056b8b9_e16946ba_500.gif");
+}
+.bg6{
+    width: 100%;
+    height: 100%;
+    opacity: 100%;
+    background-color: black;
+    background-size: cover;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-image: url("../mokmi-page/images/mqdefault.jpg");
+}
 .background-code-top {
     width: 140%;
     height: 52%;
