@@ -76,10 +76,16 @@
         if(f !== 34){
 z.className = pog3;
 pog.play();
+setTimeout(function(){
+    z.className = "bg3";
+}, Math.floor(Math.random() * (500 - 100) + 100))
         }
 else if(f === 34){
     z.className = "bg6";
 scream.play();
+setTimeout(function(){
+    z.className = "bg3";
+}, 1000)
 }
 setTimeout(function(){
     z.className = "bg3";
