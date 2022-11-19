@@ -1,0 +1,103 @@
+		███    ███████████████ █████████████ 
+		████   ████     ██   ████    ██      	
+		██ ██  ███████████████ █████ ██      
+		██  ██ ██     ████   ████    ██      
+		██   █████████████   ████     ██████ 
+
+		------------------------------------
+		This document is highly classified.
+
+UNITS (POWER ORDER) :
+
+- Head Quarter (HQ)
+		
+	. Directors
+	. Units Commanders
+
+- Space Administration Unit (SPU)
+	. Overseer Team
+	. Administrative Team
+	. Management Team
+
+- Space Intelligence Unit (SIU)
+	. Cyber Security Team
+	. Developement Team
+	. Spying Team
+	. Secret Agents Team
+
+- Space Exploration Unit (SEU)
+	. 1st Exploration Regiment
+	. 2nd Exploration Regiment
+	. 1st Pilots Squadron
+	. 2nd Pilots Squadron
+	. Spaceship Engineer Team
+
+- Science Department (SD)
+	. Space Research Team
+	. Land Research Team
+	. Quantic Physics Team
+	. Chemistry Team
+
+- Medical Department (MD)
+	. Surgery Team
+	. Medics Team
+	. Space Rescue Team
+
+- Space Analysts Team (SAT)
+	. Specimen Analysts
+	. Space Analysts
+	. Land Analysts
+
+- Space Operational Unit (SOU)
+	. Operational Pilots Squadron
+	. 1st Combat Battalion
+	. 2nd Combat Battalion
+	. 1st Support Battalion
+	. 2nd Support Battalion
+
+- Protection Department (PD)
+	. 1st Space Security Battalion
+	. 2nd Space Security Battalion
+	. 1st Land Security Regiment
+	. 2nd Land Security Regiment
+	. Land Polices Regiment
+
+- National Space Trainers Unit (NSTU)
+	. Space School Instructors Team
+	. Space Trainers Team
+	. Space Recruiters Team
+
+- National Land Trainers Unit (NLTU)
+	. Land School Instructors Team
+	. Land Trainers Team
+	. Land Recruiters Team
+
+-------------------------------------------------------------------
+
+> HQ : HQ is responsible of leading their respective unit. They also have the task to manage the National Space Research & Forces Corps. They are the most professional and the highest
+ranked members of the entire corps.
+
+> SPU : SPU is responsible of managing the National Space Research & Forces Corps. They oversee the corps and administrate it by working with the leaders of it.
+
+> SIU : SIU is responsible in protecting the National Space Research & Forces Corps. They are ensuring its security as well as the security of its members. Then, they are to ensure the
+worldwide cyber security. Ex: if someone manages to hack into NSRFC infrastructures, they are to take care of the situation. Lastly, they are to conduct spying operations with or without 
+secret agents.
+
+> SEU : SEU is reponsible in conducting 0 day space operations. Ex: Exploring a newly discovered galaxy that nobody ever explored. They are to be extremely vigilant as their life is 
+constantly in danger.
+
+> SD : SD is responsible in researching space phenomen. They are doing everything related to sciences, such as physics, chemistry, maths, etc...
+
+> MD : MD is responsible in ensuring stable health in every members of the National Space Research & Forces Corps. They do surgeries, interventions, etc...
+
+> SAT : SAT is responsible in analysing everything related to space and/or anything suspicious found on land. They obtain their subjects after explorations.
+
+> SOU : SOU is responsible in conducting space operations. They are to attack, invade, or just pacifically intervent in newly discovered galaxies/planets, already explored by SEU before.
+
+> PD : PD is responsible in ensuring the protection in space and on land of everyone within the corps. They are armed and defends our structure.
+
+> NSTU : NSTU is in charge of conducting the trainings for the ones who are willing to enter a space regiment. The trainees must pass National Land Trainings before entering the 
+National Space Trainings program. Only the most skilled of them all will be accepted into this aformentioned program.
+
+> NLTU : NLTU is in charge of conducting the trainings for the newly incomers within the National Space Research & Forces Corps. They are to ensure every new personnel is highly skilled and 
+that they deserve to join our corps.
