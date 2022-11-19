@@ -27,8 +27,8 @@ MEMBERS : (RL) = RANK LOCK = STAFF POSITION
 	. Commander - Major General Ronaldo Da Vici (RL)
 	. Deputy Commander - Brigadier General Anna Smith (RL)
 	. Sergeant Major - Sergeant Major Rodrigo Lipton (RL)
-	. Team Leader - Colonel Skye Fernandez
-	. Team Co-Leader - Major Denny Salas
+	. Team Leader - Colonel Skye Fernandez (RL)
+	. Team Co-Leader - Major Denny Salas (RL)
 	. Overseer - Second Lieutenant Marie Jonas
 	. Overseer - Staff Sergeant Luis Hamilton
 	. Jr. Overseer - Corporal Trivia Hauchard
@@ -38,8 +38,8 @@ MEMBERS : (RL) = RANK LOCK = STAFF POSITION
 	. Commander - Major General Billy Morris (RL)
 	. Deputy Commander - Brigadier General Fran Phillips (RL)
 	. Sergeant Major - Sergeant Major Kris Hamilton (RL)
-	. Team Leader - Colonel River Clarke
-	. Team Co-Leader - Major Mason Powell
+	. Team Leader - Colonel River Clarke (RL)
+	. Team Co-Leader - Major Mason Powell (RL)
 	. Administrator - Captain Quinn Cole
 	. Jr. Administrator - First Lieutenant Jamie Sargent
 	. Trainee Administrator - Sergeant Mel Gregory
@@ -48,8 +48,8 @@ MEMBERS : (RL) = RANK LOCK = STAFF POSITION
 	. Commander - Major General Glenn Bradley (RL)
 	. Deputy Commander - Brigadier General Raylee Wheeler (RL)
 	. Sergeant Major - Sergeant Major Tyler Burns (RL)
-	. Team Leader - Colonel Jude Simpson
-	. Team Co-Leader - Major Val Welch
+	. Team Leader - Colonel Jude Simpson (RL)
+	. Team Co-Leader - Major Val Welch (RL)
 	. Manager - Sergeant First Class Eva Read
 	. Manager - Corporal Elizabeth Holland
 	
