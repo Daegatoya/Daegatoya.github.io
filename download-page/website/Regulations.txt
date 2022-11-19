@@ -1,0 +1,56 @@
+		███    ███████████████ █████████████ 
+		████   ████     ██   ████    ██      	
+		██ ██  ███████████████ █████ ██      
+		██  ██ ██     ████   ████    ██      
+		██   █████████████   ████     ██████ 
+
+		------------------------------------
+		This document is highly classified.
+
+REGULATIONS : 
+
+- Severities
+	. MIN(imal) : Physical Training / Suspension (1 week - 1 month) / Base Jail (1 week - 1 month)
+	. MOD(erate) : Suspension (1 month - 6 months) / Jail (1 month - 6 months) / Termination of Position
+	. MAJ(or) : Termination of Position / Blacklist from NSRFC / National Jail (5 year - 25 years)
+	. CAP(ital) : National Jail (25 years - lifetime) / Identity & Life Force Change / Execution (Secret / Public)
+
+1 - Disobeying any order from superiors, arguing them, protesting in any violent way rather than a pacific way in order to find an arrangement. [MIN]
+
+2 - Neglection of duties and/or inactivity. [MIN]
+
+3 - Disrespect, provocation, useless arguments, etc... [MIN]
+
+4 - Misusage of privileges. [MOD] - [CAP]
+
+5 - Stolen valor. [MOD]
+
+6 - Repeated misconduct. [MIN]
+
+7 - Espionage. [CAP]
+
+8 - Treason. [MAJ] - [CAP]
+
+9 - Rioting. [MOD] - [CAP]
+
+10 - Murder. [MAJ] - [CAP]
+
+11 - Threats. [MIN] - [MAJ]
+
+12 - Hacking the NSRFC. [MAJ] - [CAP]
+
+13 - Impersionation. [MIN] - [MAJ]
+
+14 - Leaking classified documents. [MAJ] - [CAP]
+
+15 - Slandering. [MIN]
+
+16 - Misuse of equipments. [MIN] - [MOD]
+
+17 - Unauthorized actions. [MIN] - [MAJ]
+
+18 - Conspiracy. [MIN] - [MOD]
+
+19 - Assaulting any personnel. [MOD] - [MAJ]
+
+20 - Vandalism. [MIN]
