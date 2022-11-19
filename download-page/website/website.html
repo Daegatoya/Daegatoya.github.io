@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="shortcut icon" href="https://upload.wikimedia.org/wikipedia/commons/e/e6/Air_Intelligence_Agency.png" />
+        <title>Login</title>
+        <link rel="stylesheet" href="C:\Users\3very\OneDrive\Desktop\Code2\download-page\styles.css">
+    </head>
+<body>
+    <div class="background2"></div>
+    <div class="container">
+        <div class="logo2"></div>
+        <div class="header style-1">NATIONAL SPACE RESEARCH & FORCES CORPS</div>
+        <div class="header style-2" id="divid"><textarea id="submission" required style="border:outset 4px rgb(13, 190, 131);"></textarea></div>
+        <button class="button2" onclick="search()">SEARCH FILE</button>
+    </div>
+  <script>
+       var text; 
+       var dir;
+
+      function search(){
+        text = document.getElementById("submission").value;
+        
+        switch(text){
+            case "1":
+            dir = `Units.txt`
+                break;
+            case "2":
+                dir = "Regulations.txt"
+                break;
+            case "3":
+            dir = `Operations.txt`
+                break;
+            case "4":
+                dir = "Members.txt"
+                break;
+            case "5":
+            dir = `Locations.txt`
+                break;
+            case "6":
+                dir = "Database.json"
+                break;
+        }
+        
+        window.location.replace(dir)
+    }
+  </script>
+</body>
+</html>
+
+
+

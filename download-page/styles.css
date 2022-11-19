@@ -1,0 +1,257 @@
+
+
+@font-face {
+    font-family: gotham;
+    src: url(../download-page/fonts/GothamMediumItalic.ttf);
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: gotham;
+    src: url(../download-page/fonts/GothamLight.ttf);
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: gotham;
+    src: url(../download-page/fonts/GothamMedium.ttf);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: gotham;
+    src: url(../download-page/fonts/GothamBold.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: gotham;
+    src: url(../download-page/fonts/GothamBook.ttf);
+    font-weight: 500;
+}
+
+body {
+    margin: 0;
+    overflow-x: hidden;
+    font-family: gotham;
+}
+textarea {
+    resize: none;
+    font-size:50px;
+    width: 100%;
+    height: 100%;
+  }
+
+  .logo2 {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    margin: 0 auto;
+    display: block;
+    width: 40%;
+    height: 100%;
+
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/c0/Space_Innovation_and_Development_Center.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: 1;
+
+}
+
+.background {
+    width: 100%;
+    height: 100%;
+    background-image: url("../download-page/images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    margin: 0;
+    z-index: 0;
+    animation: loop;
+    border-bottom: 5px solid darkblue;
+    animation-duration: 10s;
+    animation-delay: 0ms;
+    transition-timing-function: cubic-bezier(.88,.9,.68,-0.45);
+    animation-iteration-count: infinite;
+}
+.background2 {
+    width: 100%;
+    height: 100%;
+    background-image: url("https://i0.wp.com/aziobot.com/wp-content/uploads/2019/07/adobestock_173905768.jpeg?fit=4000%2C2000&ssl=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    margin: 0;
+    z-index: 0;
+    animation: loop;
+    border-bottom: 5px solid darkblue;
+    animation-duration: 10s;
+    animation-delay: 0ms;
+    transition-timing-function: cubic-bezier(.88,.9,.68,-0.45);
+    animation-iteration-count: infinite;
+}
+
+.container {
+    display: grid;
+    height: 100%;
+    width: 100%;
+    padding-top: 5%;
+
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 16em 5em 5em 5em;
+    grid-gap: calc(25px + 0.390625vw);
+}
+
+.logo {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    margin: 0 auto;
+    display: block;
+    width: 40%;
+
+    background-image: url("../download-page/images/logo.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: 1;
+
+}
+
+.header {
+    grid-column-start: 2;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    z-index: 1;
+}
+
+.header.style-1 {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    padding-top: 3%;
+    font-size: 2.5em;
+    font-weight: 300;
+}
+
+.header.style-2 {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    padding-top: 3%;
+    font-size: 1.8em;
+    font-weight: 500;
+}
+.header.style-3 {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    padding-top: 3%;
+    font-size: 1.8em;
+    font-weight: 500;
+}
+
+.button {
+    font-family: gotham;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    background-color: white;
+    width: 50%;
+    height: 70%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 1.5em;
+    border: 3px solid #B2782C;
+    background-color: rgba(222, 187, 99, 0);
+    color: #B2782C;
+    transition: 0.5s;
+    border-radius: 50px;
+    z-index: 1;
+}
+.button2 {
+    font-family: gotham;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    background-color: white;
+    width: 50%;
+    height: 70%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 1.5em;
+    border: 3px solid #0bb892;
+    background-color: rgba(222, 187, 99, 0);
+    color: #0d614c;
+    transition: 0.5s;
+    border-radius: 50px;
+    z-index: 1;
+}
+
+.button:hover{
+    background-color: rgba(222, 187, 99, 0.29);
+    font-size: 1.7em;
+    cursor: pointer;
+}
+.button2:hover{
+    background-color: rgba(6, 82, 38, 0.29);
+    font-size: 1.7em;
+    cursor: pointer;
+}
+
+@keyframes loop{
+    100% {
+        width: 100%;
+    }
+
+    50% {
+        width: 120%;
+    }
+
+    25% {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .background {
+        animation: none;
+    }
+    .background2 {
+        animation: none;
+    }
+    .logo {
+        width: 80%;
+    }
+    .header.style-2 {
+        grid-column-start: 1;
+        grid-column-end: 4;
+    }
+    .button {
+        font-size: 1.3em;
+        width: 70%;
+    }
+    .button:hover{
+        font-size: 1.4em;
+    }
+    
+}
+
+@media only screen and (max-width: 600px) {
+    .background {
+        animation: none;
+    }
+    .background2 {
+        animation: none;
+    }
+    .container {
+        padding-top: 20%;
+    }
+    .logo {
+        width: 100%;
+    }
+    .header.style-1 {
+        font-size: 2.7em;
+    }
+    .button {
+        font-size: 1.1em;
+        width: 100%;
+    }
+    .button:hover{
+        font-size: 1.2em;
+    }
+}

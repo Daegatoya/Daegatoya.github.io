@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link id="100" rel="shortcut icon" href="https://upload.wikimedia.org/wikipedia/commons/c/c0/Space_Innovation_and_Development_Center.png" />
+        <title>Login</title>
+        <link rel="stylesheet" href="styles.css">
+        
+    </head>
+    <body>
+        <!-- Website -->
+        <div class="background"></div>
+        <div class="container">
+            <div class="logo"></div>
+            <div class="header style-1">NATIONAL SPACE RESEARCH & FORCES CORPS</div>
+            <div class="header style-2" id="divid"><textarea id="submission" required style="border:outset 4px orange;"></textarea></div>
+            <button class="button" onclick="webs()">SUBMIT TOKEN</button>
+<script>
+    var msg = "";
+    const ws = new WebSocket("ws://localhost:9898/");
+    var text;
+    
+ws.onerror = function(error) {
+      ws.send("Error: " + error);
+    };
+    ws.onopen = function() {
+      ws.send(" ");
+    };
+    ws.onmessage = function(message) {
+            msg = message.data;
+    }
+    function webs(){
+        text = document.getElementById("submission").value;
+        console.log(text)
+        if(text == msg)
+        {
+            window.location.replace("file:///C:/Users/3very/OneDrive/Desktop/Code2/download-page/website/website.html")
+        }
+        else
+        {
+            alert("Access Denied.")
+            document.getElementById("submission").value = "";
+        }
+    }
+</script>
+    </body>
+</html>
