@@ -29,7 +29,7 @@ Antennae Galaxies	Corvus			Explortation Corvus Center			08/28/1997
 
 Backward Galaxy		Centaurus		Centaurus Exploration Station			11/20/2000
 
-Backward Galaxy		Centaurus		Fort Hamilton					11/20/2000
+Backward Galaxy		Centaurus		Fort Hamilton					04/06/2001
 
 Black Eye Galaxy	Coma Berenices		Berenices Interspacial Exploration Center	09/13/2001
 
