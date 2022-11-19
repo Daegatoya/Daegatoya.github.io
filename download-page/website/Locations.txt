@@ -1,0 +1,70 @@
+		███    ███████████████ █████████████ 
+		████   ████     ██   ████    ██      	
+		██ ██  ███████████████ █████ ██      
+		██  ██ ██     ████   ████    ██      
+		██   █████████████   ████     ██████ 
+
+		------------------------------------
+		This document is highly classified.
+
+LOCATIONS : 
+
+GALAXY			CONSTELLATION		BASE NAME					SINCE
+
+Milky Way		Sagittarius		Milky Way Exploration Station			07/15/1987
+
+Milky Way		Sagittarius		Milky Way International Space Station		07/15/1987
+
+Milky Way		Sagittarius		Milky Way Operational Center			07/15/1989
+
+Milky Way		Sagittarius		Galactic Sagittarius Space Center		04/17/1990
+
+Andromeda		Andromeda		Andromeda Exploration Center			12/21/1992
+
+Andromeda		Andromeda		Andromeda International Space Station		11/04/1993
+
+Andromeda		Andromeda		Fort Erwan					09/07/1995
+
+Antennae Galaxies	Corvus			Explortation Corvus Center			08/28/1997
+
+Backward Galaxy		Centaurus		Centaurus Exploration Station			11/20/2000
+
+Backward Galaxy		Centaurus		Fort Hamilton					11/20/2000
+
+Black Eye Galaxy	Coma Berenices		Berenices Interspacial Exploration Center	09/13/2001
+
+Antennae Galaxies	Corvus			Fort Dyno					10/06/2001
+
+Butterfly Galaxies	Virgo			National Virgo Exploration Center		04/09/2002
+
+Cigar Galaxy		Ursa Major		Ursa Exploration Spacial Station		06/12/2002
+
+Bode's Galaxy		Ursa Major		Fort Smith					03/07/2003
+
+Coma Pinwheel Galaxy	Coma Berenices		Fort Gregory					08/25/2003
+
+Cosmos Redshift 7	Sextans			Redshift Sextans National Exploration Center	12/21/2003
+
+Large Magellanic Cloud	Dorado			Dorado's Magellanic Exploration Station		06/23/2005
+
+Medusa Merger		Ursa Major		Fort Di Lieni					09/07/2005
+
+Mice Galaxies		Coma Berenices		Fort Jackson					07/19/2007
+
+Sombrero Galaxy		Virgo			Fort Magela					05/09/2009
+
+Tadpole Galaxy		Draco			Draco Intergalactic Exploration Station		07/08/2011
+
+Sculptor Dwarf Galaxy	Sculptor		Sculptor International Exploration Center	09/10/2013
+
+Little Sombrero Galaxy	Pegasus			Pegasus Exploration Intergalactic Station	07/30/2015
+
+Malin 1			Coma Berenices		Fort Bradley					09/12/2017
+
+Fireworks Galaxy	Cygnus & Cepheus	Cypheus International Exploration Station	05/15/2018
+
+Condor Galaxy		Pavo			Pavo Exploration Space Center			08/30/2020
+
+Circinus Galaxy		Circinus		Circinue Exploration Intergalactic Station	03/21/2021
+
+Hoag's Object		Serpens Caput		Serput National Space Exploration Center	04/10/2022
