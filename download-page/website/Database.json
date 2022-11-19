@@ -1,9 +1,64 @@
 {
-    "Users": [
-      {
-        "Name": "Elizabeth",
-        "Password": "Lucarinox123",
-        "Perms": "Admin"
-      }
-    ]
-  }
+  "Users": [
+    {
+      "Name": "Wilbur Read",
+      "Password": "BlhhoxdzAh",
+      "Position": "CEO"
+    },
+    {
+      "Name": "Beckett Sykes",
+      "Password": "ygBPINhyVK",
+      "Position": "Chairman of NSRFC"
+    },
+    {
+      "Name": "Scarlett Miller",
+      "Password": "454brx6jUq",
+      "Position": "Deputy Chairman of NSRFC"
+    },
+    {
+      "Name": "Harry Rose",
+      "Password": "RHZ3ujQ25P",
+      "Position": "Director of Staff of NSRFC"
+    },
+    {
+      "Name": "Del Jennings",
+      "Password": "hn2Ff0ky4P",
+      "Position": "Chief of Personnel of NSRFC"
+    },
+    {
+      "Name": "Allison Swanson",
+      "Password": "KBILKGye6P",
+      "Position": "Space Commander of NSRFC"
+    },
+    {
+      "Name": "Caden Cunningham",
+      "Password": "HpDpCf135I",
+      "Position": "SPU Commanding General"
+    },
+    {
+      "Name": "Ryan Berry",
+      "Password": "xUfJ0tJ8wl",
+      "Position": "SPU Deputy Commanding General"
+    },
+    {
+      "Name": "Lauren Sutton",
+      "Password": "1LYGITetDY",
+      "Position": "SPU Sergeant Major"
+    },
+    {
+      "Name": "Erin Cox",
+      "Password": "w39TKYNGV0",
+      "Position": "Chairman of Intelligence"
+    },
+    {
+      "Name": "Ryan Frost",
+      "Password": "7CkBncdaXx",
+      "Position": "Deputy Chairman of Intelligence"
+    },
+    {
+      "Name": "Noel Rivas",
+      "Password": "bSkfCUCqn3",
+      "Position": "Chief of Intelligence"
+    }
+  ]
+}
