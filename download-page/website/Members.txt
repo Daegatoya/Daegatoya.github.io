@@ -1,0 +1,461 @@
+		███    ███████████████ █████████████ 
+		████   ████     ██   ████    ██      	
+		██ ██  ███████████████ █████ ██      
+		██  ██ ██     ████   ████    ██      
+		██   █████████████   ████     ██████ 
+
+		------------------------------------
+		This document is highly classified.
+
+MEMBERS : (RL) = RANK LOCK = STAFF POSITION
+
+- Directors
+	. CEO & Founder of NSRFC - Wilbur Read
+	. Chairman of NSRFC - General Beckett Sykes (RL)
+	. Deputy Chairman of NSRFC - General Scarlett Miller (RL)
+	. Director of Staff of NSRFC - General Harry Rose (RL)
+	. Chief of Personnel of NSRFC - Lieutenant General Del Jennings (RL)
+	. Space Commander of NSRFC - Major General Allison Swanson (RL)
+
+- SPU
+	-- HQ --
+	. Commanding General - General Caden Cunningham (RL)
+	. Deputy Commanding General - Lieutenant General Ryan Berry (RL)
+	. Unit Sergeant Major - Sergeant Major Lauren Sutton (RL)
+
+	-- Overseer Team --
+	. Commander - Major General Ronaldo Da Vici (RL)
+	. Deputy Commander - Brigadier General Anna Smith (RL)
+	. Sergeant Major - Sergeant Major Rodrigo Lipton (RL)
+	. Team Leader - Colonel Skye Fernandez
+	. Team Co-Leader - Major Denny Salas
+	. Overseer - Second Lieutenant Marie Jonas
+	. Overseer - Staff Sergeant Luis Hamilton
+	. Jr. Overseer - Corporal Trivia Hauchard
+	. Trainee Overseer - Private Second Class Errol Atkinson
+	
+	-- Administrative Team --
+	. Commander - Major General Billy Morris (RL)
+	. Deputy Commander - Brigadier General Fran Phillips (RL)
+	. Sergeant Major - Sergeant Major Kris Hamilton (RL)
+	. Team Leader - Colonel River Clarke
+	. Team Co-Leader - Major Mason Powell
+	. Administrator - Captain Quinn Cole
+	. Jr. Administrator - First Lieutenant Jamie Sargent
+	. Trainee Administrator - Sergeant Mel Gregory
+
+	-- Management Team --
+	. Commander - Major General Glenn Bradley (RL)
+	. Deputy Commander - Brigadier General Raylee Wheeler (RL)
+	. Sergeant Major - Sergeant Major Tyler Burns (RL)
+	. Team Leader - Colonel Jude Simpson
+	. Team Co-Leader - Major Val Welch
+	. Manager - Sergeant First Class Eva Read
+	. Manager - Corporal Elizabeth Holland
+	
+- SIU
+	-- HQ --
+	. Chairman of Intelligence - General Erin Cox (RL)
+	. Deputy Chairman of Intelligence - Lieutenant General Ryan Frost (RL)
+	. Chief of Intelligence - Sergeant Major Noel Rivas (RL)
+
+	-- Cyber Security Team --
+	. Cyber Security Manager - Elmer Taylor
+	. Cyber Security Deputy Manager - Jillian Stokes
+	. Cyber Security Agent - Anastasia Caldwell
+
+	-- Developement Team --
+	. Head Developer - Mckayla Randolph
+	. Senior Developer - Jamie O'neal
+	. Developer - Ameer Crane
+	. Jr. Developer - Abdullah Forbes
+
+	-- Spying Team --
+	. Chief Spy - Private Second Class Gilberto Hurley
+	. Spy - Sergeant Major Hailee Webb
+	. Spy - Corporal Cerys Martin
+	. Jr. Spy - First Sergeant Dorian Hurst
+
+	-- Secret Spying Team --
+	      [REDACTED]
+
+- SEU
+	-- HQ --
+	. Commanding General - General Journey Morris (RL)
+	. Deputy Commanding General - Lieutenant General Kolton Malone (RL)
+	. Unit Sergeant Major - Sergeant Major Justus Galloway (RL)
+
+	-- Exploration Regiments --
+	. Commander - Major General Sonia Drake (RL)
+	. Deputy Commander - Brigadier General Maximilian Vance (RL)
+	. Sergeant Major - Sergeant Major Emerson O'donnell (RL)
+	. 1st Regiment Leader - Colonel Bobby Lloyd (RL)
+	. 1st Regiment Co-Leader - Lieutenant Colonel Lukas Mathews (RL)
+	. 1st Regiment Agent - Captain Kiara O'neill
+	. 1st Regiment Agent - Second Lieutenant Viviana Kelly
+	. 1st Regiment Jr. Agent - Corporal Maddison Wood
+	. 1st Regiment Trainee - Sergeant Charlie George
+	. 2nd Regiment Leader - Colonel Madison Cruz (RL)
+	. 2nd Regiment Co-Leader - Lieutenant Colonel Freddie Green (RL)
+	. 2nd Regiment Agent - Major Gardner Dolton
+	. 2nd Regiment Jr. Agent - First Lieutenant Elizabeth White
+
+	-- Pilots Squadrons --
+	. Commander - Major General Eden Marshall (RL)
+	. Deputy Commander - Brigadier General Daxton Silva (RL)
+	. Sergeant Major - Sergeant Major Timothy Berger (RL)
+	. 1st Squadron Leader - Colonel Asa Pace (RL)
+	. 1st Squadron Co-Leader - Lieutenant Colonel Dexter Pearson (RL)
+	. 1st Squadron Senior Pilot - Specialist Azalea Fleming
+	. 1st Squadron Pilot - Private First Class Kendra Davis
+	. 1st Squadron Trainee Pilot - Sergeant First Class Skyler Gomez
+	. 2nd Squadron Leader - Colonel Randall Nunez (RL)
+	. 2nd Squadron Co-Leader - Lieutenant Colonel Andy Blair (RL)
+	. 2nd Squadron Senior Pilot - Captain Luca Cox
+	. 2nd Squadron Senior Pilot - Master Sergeant Gaige Pollard
+	. 2nd Squadron Pilot - Corporal Orlando Mcbride
+	. 2nd Squadron Jr. Pilot - First Lieutenant Edison Mckee
+
+	-- Spaceship Engineer Team --
+	. Chief Engineer - Colonel Pamela Hubbard (RL)
+	. Deputy Chief Engineer - Lieutenant Colonel Thea Snider (RL)
+	. Head Engineer - Sergeant Major Darell Poole (RL)
+	. Senior Engineer - Major Lionel Pauley
+	. Engineer - Corporal Myrtle Cress
+	. Engineer - Private First Class Joy Dittman
+
+- SD
+	-- HQ --
+	. Commanding General - General Darrell Baird (RL)
+	. Deputy Commanding General - Lieutenant General Harvey Robertson (RL)
+	. Unit Sergeant Major - Sergeant Major Finley Robertson (RL)
+
+	-- Space Research Team --
+	. Researcher General - Major General Nylah Daugherty (RL)
+	. Researcher Deputy General - Brigadier General Jennifer Richards (RL)
+	. Head Researcher - Sergeant Major Marshall Espinoza (RL)
+	. Senior Researcher - Major Joel Scott
+	. Senior Researcher - Corporal Daniel Andrews
+	. Researcher - Erica Jacobson
+	. Jr. Researcher - Laura Austin
+	
+	-- Land Research Team --
+	. Researcher General - Major General Marlene Harrell (RL)
+	. Researcher Deputy General - Brigadier General Jamal Delgado (RL)
+	. Head Researcher - Sergeant Major Wayne Pruitt (RL)
+	. Researcher - Captain Nicholas Gray
+	. Jr. Researcher - Master Sergeant Jay Harrison
+	. Trainee Researcher - Specialist Blake Moreno
+
+	-- Quantic Physics Team --
+	. Head Physician - Sergeant Major Malia Gregory (RL)
+	. Quantic Senior Physician - Malaya Cochran
+	. Quantic Physician - Annie Petersen
+	. Senior Physician - Lexie Dean
+	. Senior Physician - Armani Little
+	. Physician - Kristopher Flores
+	. Jr. Physician - Joshua Thomson
+
+	-- Chemistry Team --
+	. Head Chemist - Sergeant Major Sam Pugh (RL)
+	. Senior Chemist - Chris Mccarthy
+	. Chemist - Jaden Tate
+	. Chemist - Claudia Finch
+	. Jr. Chemist - Keira Barker
+	. Trainee Chemist - Julissa Swanson
+
+- MD
+	-- HQ --
+	. Commanding General - General Maliah Sexton (RL)
+	. Deputy Commanding General - Lieutenant General Killian Marks (RL)
+	. Unit Sergeant Major - Sergeant Major Holden Raymond (RL)
+	
+	-- Surgery Team --
+	. Chief Surgeron - Colonel Jayden Bradshaw (RL)
+	. Head Surgeron - Sergeant Major Ruby Perry (RL)
+	. Senior Surgeron - Ivan Holder
+	. Senior Surgeron - Leo Roberts
+	. Surgeron - Ezekiel Flores
+	. Jr. Surgeron - Ava Ramos
+	
+	-- Medics Team --
+	. Medical Commanding Officer - Major General Ali Combs (RL)
+	. Medical Executive Officer - Brigadier General Clinton Carson (RL)
+	. Medical Sergeant Major - Sergeant Major Kieran Day (RL)
+	. Senior Doctor - Theo Lowe
+	. Senior Doctor - Clinton Carson
+	. Doctor - Kadence Francis
+	. Jr. Doctor - Bethany Fraser
+	. Jr. Doctor - Hunter Nieves
+	. Trainee Doctor - Harrison Brooks
+
+	-- Space Rescue Team --
+	. Head Recue Commander - Sergeant Major Ellis James (RL)
+	. Rescue Commander - Master Sergeant Graysen Rodgers (RL)
+	. Operative Doctor - Colonel Hayden Weaver
+	. Operative Doctor - Second Lieuteant Kathleen Copeland
+	. Jr. Operative Doctor - Staff Sergeant Seth Reese
+	. Operative Assistant-Doctor - Sergeant Summer Cox
+	. Jr. Operative Assistant-Doctor - Corporal Morgan Johnson
+	. Trainee Operative Assistant-Doctor - Private Second Class Jackson Black
+
+- SAT
+	-- HQ --
+	. Chief Analyst - Major General Anna Chapman (RL)
+	. Deputy Chief Analyst - Brigadier General Aylin Mullen (RL)
+	. Head Analyst - Sergeant Major Xander Kinney (RL)
+
+	-- Specimen Analysts --
+	. Specimen Senior Analyst - Colonel Erick Gross
+	. Specimen Senior Analyst - Major Ruth Shannon
+	. Specimen Analyst - Specialist Paige Parker
+	. Specimen Analyst - Private First Class Milana Townsend
+	. Jr. Specimen Analyst - Corporal Elise Duran
+
+	-- Space Analysts --
+	. Space Analyst - Lieutenant Colonel Kaiden Carr
+	. Space Analyst - Sergeant First Class Louie Hall
+	. Jr. Space Analyst - Sergeant Michaela Cox
+	. Trainee Space Analyst - Corporal Alisha Moore
+
+	-- Land Analysts --
+	. Land Senior Analyst - Corporal Fatima Snyder
+	. Land Analyst - Private Second Class Eliseo Gilbert
+	. Jr. Land Analyst - Colonel Finlay Mccarthy
+	. Jr. Land Analyst - Sergeant First Class Eliseo Gilbert
+	. Trainee Land Analyst - Corporal Sophia Hester
+
+- SOU
+	-- HQ --
+	. Commanding General - General Kensley Wooten (RL)
+	. Deputy Commanding General - Lieutenant General Braden Mcleod (RL)
+	. Unit Sergeant Major - Sergeant Major Sterling O'donnell (RL)
+
+	-- Operational Pilots Squadron --
+	. Squadron Leader - Major Lydia Price (RL)
+	. Squadron Co-Leader - Captain Hannah Foley (RL)
+	. Head Space Pilot - Sergeant Major Jaiden Massey (RL)
+	. Senior Space Pilot - Corporal Alfonso Evans
+	. Space Pilot - Second Lieutenant John Wilson
+	. Space Pilot - Staff Sergeant Cory Lawson
+	. Jr. Space Pilot - Master Sergeant Melissa Wolf
+	. Trainee Space Pilot - First Sergeant Evalyn Hahn
+	. Head Land Pilot - Sergeant Major Virginia Boyer (RL)
+	. Senior Land Pilot - First Sergeant Isiah Rivas
+	. Land Pilot - Corporal Bradyn Cole
+	. Land Pilot - Private First Class Morgan Palmer
+	. Land Pilot - Private Second Class Jamir Blevins
+	. Jr. Land Pilot - Second Lieutenant Aisha Erickson
+	. Jr. Land Pilot - Master Sergeant Isabel Griffiths
+	. Trainee Land Pilot - Specialist Jay Willis
+
+	-- Combat Battalions --
+	. 1st Battalion Leader - Colonel Brantley Bennett (RL)
+	. 1st Battalion Co-Leader - Lieutenant Colonel Alexander Hussain (RL)
+	. 1st Battalion Operative Sergeant - Sergeant First Class Isla O'neil (RL)
+	. 1st Battalion Operative Sergeant - Sergeant First Class Morgan Massey (RL)
+	. 1st Battalion Senior Operator - Master Sergeant Emilia Riley
+	. 1st Battalion Senior Operator - Sergeant Derek Macdonald
+	. 1st Battalion Operator - First Lieutenant Corey Anderson
+	. 1st Battalion Operator - Specialist Daniel Gordon
+	. 1st Battalion Operator - Private Second Class Karlee Hess
+	. 1st Battalion Jr. Operator - Corporal Jionni Vega
+	. 2nd Battalion Leader - Colonel Cameron Whitney (RL)
+	. 2nd Battalion Co-Leader - Lieutenant Colonel Kingsley Gilmore (RL)
+	. 2nd Battalion Operative Sergeant - Sergeant First Class Nathanael Frost (RL)
+	. 2nd Battalion Operative Sergeant - Sergeant First Class Emmanuel Hayden (RL)
+	. 2nd Battalion Operator - Sergeant Caleb Holland
+	. 2nd Battalion Operator - Corporal Natalya Phelps
+	. 2nd Battalion Jr. Operator - Master Sergeant Maddison Matthews
+	. 2nd Battalion Jr. Operator - Corporal Sloane Roman
+	. 2nd Battalion Trainee Operator - Sergeant Lee Pratt
+
+	-- Support Battalions --
+	. 1st Battalion Leader - Colonel Angelina Mills (RL)
+	. 1st Battalion Co-Leader - Lieutenant Colonel Alice Baker (RL)
+	. 1st Battalion Operative Sergeant - Sergeant First Class Finnegan Griffin (RL)
+	. 1st Battalion Operative Sergeant - Sergeant First Class Ian Marquez (RL)
+	. 1st Battalion Senior Operator - Master Sergeant Cash Pearson
+	. 1st Battalion Operator - Captain Harvey Gill
+	. 1st Battalion Operator - Second Lieutenant Hanna Newman
+	. 1st Battalion Operator - Staff Sergeant Sloane Rollins
+	. 1st Battalion Jr. Operator - Sergeant First Class Joy White
+	. 1st Battalion Jr. Operator - Corporal Jake Perry
+	. 2nd Battalion Leader - Colonel Layla Maddox (RL)
+	. 2nd Battalion Co-Leader - Lieutenant Colonel Enzo Vazquez (RL)
+	. 2nd Battalion Operative Sergeant - Sergeant First Class Sonny Day (RL)
+	. 2nd Battalion Operative Sergeant - Sergeant First Class Mason Lewis (RL)
+	. 2nd Battalion Senior Operator - Specialist Karina Massey
+	. 2nd Battalion Operator - Staff Sergeant Aliya Lawson
+	. 2nd Battalion Jr. Operator - Captain Leon Barton
+	. 2nd Battalion Jr. Operator - Sergeant Michael Hawkins
+
+- PD
+	-- HQ --
+	. Protection General - General Raylee Ware (RL)
+	. Deputy Protection General - Lieutenant General Alex Daugherty (RL)
+	. Protection Sergeant Major - Sergeant Major Raylee Ware (RL)
+
+	-- Space Security Battalions --
+	. 1st Battalion Head Commander - Major Jack Stewart (RL)
+	. 1st Battalion Commander - Captain Logan Hughes (RL)
+	. 1st Battalion Head Agent - Second Lieutenant Joyce Summers
+	. 1st Battalion Head Agent - First Sergeant Gracie Hill
+	. 1st Battalion Senior Agent - Corporal Kyrie Johnston
+	. 1st Battalion Senior Agent - Corporal Ellis Harper
+	. 1st Battalion Agent - First Sergeant Carla Moody
+	. 1st Battalion Agent - Sergeant First Class Hadley Shepard
+	. 1st Battalion Agent - Staff Sergeant Evelyn Houghton
+	. 1st Battalion Jr. Agent - Sergeant Charlie Garcia
+	. 1st Battalion Trainee Agent - Private Second Class Imogen Chapman
+	. 2nd Battalion Head Commander - Major Misael Jennings (RL)
+	. 2nd Battalion Commander - Captain Derrick Sheppard (RL)
+	. 2nd Battalion Head Agent - Specialist Mya O'connor
+	. 2nd Battalion Senior Agent - Sergeant Lucy Hunt
+	. 2nd Battalion Senior Agent - Corporal Desmond Daniel
+	. 2nd Battalion Agent - Staff Sergeant David Patel
+	. 2nd Battalion Agent - Sergeant Peter Bradley
+	. 2nd Battalion Agent - Private First Class Sage Kirk
+	. 2nd Battalion Jr. Agent - Corporal Isla Gibson
+	. 2nd Battalion Jr. Agent - Private First Class Angela Acosta
+	. 2nd Battalion Trainee Agent - Sergeant Vance Leonard
+	. 2nd Battalion Trainee Agent - Specialist Logan Reid
+
+	-- Land Security Regiments --
+	. 1st Regiment Chief - First Lieutenant Ezra Dunn (RL)
+	. 1st Regiment Deputy Chief - Second Lieutenant Samara Norris (RL)
+	. 1st Regiment Leader - First Sergeant Lacey Jenkins (RL)
+	. 1st Regiment Head Agent - Sergeant Alivia Christensen
+	. 1st Regiment Head Agent - Specialist Jessie Bowers
+	. 1st Regiment Senior Agent - Corporal Logan Hussain
+	. 1st Regiment Agent - Staff Sergeant Alex Navarro
+	. 1st Regiment Agent - Corporal Bennie Chapman
+	. 1st Regiment Agent - Private Second Class Mason Sutton
+	. 1st Regiment Jr. Agent - Corporal Ashton Robles
+	. 1st Regiment Trainee Agent - Private Second Class Aiden Williamson
+	. 2nd Regiment Chief - First Lieutenant Sammy Shannon (RL)
+	. 2nd Regiment Deputy Chief - Second Lieutenant Angel Carpenter (RL)
+	. 2nd Regiment Leader - First Sergeant Skylar Robinson (RL)
+	. 2nd Regiment Head Agent - Master Sergeant Bailey Moran
+	. 2nd Regiment Senior Agent - Specialist Danni Miller
+	. 2nd Regiment Senior Agent - Private First Class Sidney Callahan
+	. 2nd Regiment Agent - First Sergeant Willy Ford
+	. 2nd Regiment Agent - Staff Sergeant Vic Ray
+	. 2nd Regiment Agent - Corporal Glenn Gill
+	. 2nd Regiment Jr. Agent - Specialist Elliot Santiago
+	. 2nd Regiment Jr. Agent - Private Second Class Addison Dawson
+	. 2nd Regiment Trainee Agent - Sergeant Justice Brady
+
+	-- Land Polices Regiment --
+	. Provost Marshall General - Major General Maddox Grimes (RL)
+	. Deputy Provost Marshall General - Brigadier General Quinn Jensen (RL)
+	. Provost Sergeant Major - Sergeant Major Riley Stevens (RL)
+	. Provost Marshall - Colonel Sammy Baker (RL)
+	. Chief of Polices - Lieutenant Colonel Ash Perry (RL)
+	. Head Police - Second Lieutenant Mel Strong
+	. Head Police - Master Sergeant Jamie Pittman
+	. Head Police - Sergeant First Class Morgan Carr
+	. Head Police - Sergeant Cory Vaughan
+	. Senior Police - Staff Sergeant Eli Sutton
+	. Senior Police - Staff Sergeant Billie Rich
+	. Senior Police - Sergeant Frankie Dudley
+	. Senior Police - Specialist Aiden Hunt
+	. Senior Police - Private Second Class Lynn Hurley
+	. Police - Corporal Taylor Horton (RL) (NON-STAFF)
+	. Police - Corporal Avery Bradley (RL) (NON-STAFF)
+	. Police - Corporal Will May (RL) (NON-STAFF)
+	. Police - Corporal Justice Fisher (RL) (NON-STAFF)
+	. Police - Corporal Bev George (RL) (NON-STAFF)
+	. Police - Corporal Rudy Tate (RL) (NON-STAFF)
+	. Police - Corporal Bailey Fernandez (RL) (NON-STAFF)
+	. Jr. Police - Private First Class Reggie Dean (RL) (NON-STAFF)
+	. Jr. Police - Private First Class Alexis Allen (RL) (NON-STAFF)
+	. Jr. Police - Private First Class Harley Foster (RL) (NON-STAFF)
+	. Jr. Police - Private First Class Harper Fox (RL) (NON-STAFF)
+
+- NSTU
+	-- HQ --
+	. Commanding General - General Terry Hunt (RL)
+	. Deputy Commanding General - Lieutenant General Nicky Sampson (RL)
+	. Unit Sergeant Major - Sergeant Major Jessie Nolan (RL)
+
+	-- Space School Instructors Team --
+	. Chief Instructor - Colonel Caden Marks (RL)
+	. Instructor - Major Brynn Montgomery
+	. Instructor - Captain Haiden Curtis
+	. Instructor - Master Sergeant Blair Doyle
+	. Instructor - Sergeant First Class Steff Murray
+	. Instructor - Sergeant Willy Camacho
+	. Instructor - Sergeant Rene Burris
+	. Instructor - Corporal Shay Foster
+	. Instructor - Specialist Steff Willis
+	. Instructor - Specialist Tanner Deleon
+
+	-- Space Trainers Team --
+	. Chief Trainer - Major Jo Pitts (RL)
+	. Trainer - Staff Sergeant Blair Morgan (RL) (NON-STAFF)
+	. Trainer - Staff Sergeant Logan Levy (RL) (NON-STAFF)
+	. Trainer - Staff Sergeant Danni Perez (RL) (NON-STAFF)
+	. Trainer - Staff Sergeant Noel Gibbs (RL) (NON-STAFF)
+	. Trainer - Staff Sergeant Logan Hoover (RL) (NON-STAFF)
+	. Trainer - Staff Sergeant Kit Matthews (RL) (NON-STAFF)
+	. Trainer - Staff Sergeant Gabe Morris (RL) (NON-STAFF)
+
+	-- Space Recruiters Team --
+	. Head Recruiter - Sergeant Major Sarah Simpson (RL)
+	. Recruiter - Sergeant Ashlynn Higgins (RL) (NON-STAFF)
+	. Recruiter - Sergeant Val Small (RL) (NON-STAFF)
+	. Recruiter - Sergeant Harper Shaw (RL) (NON-STAFF)
+	. Recruiter - Sergeant Bev Maddox (RL) (NON-STAFF)
+	. Recruiter - Sergeant Leslie Barnes (RL) (NON-STAFF)
+	. Recruiter - Sergeant Bret Snow (RL) (NON-STAFF)
+	. Recruiter - Sergeant Danny Bailey (RL) (NON-STAFF)
+	. Recruiter - Sergeant Quinn Taylor (RL) (NON-STAFF)
+
+- NLTU
+	-- HQ --
+	. Commanding General - General Shay Potts (RL)
+	. Deputy Commanding General - Lieutenant General Maddox Day (RL)
+	. Unit Sergeant Major - Sergeant Major Billy Jacobson (RL)
+
+	-- Land School Instructors Team --
+	. Chief Instructor - Captain Blair Franks (RL)
+	. Instructor - Second Lieutenant Willy Graves
+	. Instructor - Master Sergeant Justice Johnston
+	. Instructor - Sergeant First Class Emerson Carpenter
+	. Instructor - Sergeant Val Valentine
+	. Instructor - Sergeant Mell Collins
+	. Instructor - Specialist Billy Mccormick
+
+	-- Land Trainers Team --
+	. Head Trainer - First Lieutenant Glenn Carlson (RL)
+	. Trainer - Sergeant Ashley Harrison (RL) (NON-STAFF)
+	. Trainer - Sergeant Cameron Finley (RL) (NON-STAFF)
+	. Trainer - Sergeant Emerson Wall (RL) (NON-STAFF)
+	. Trainer - Sergeant Steff Ross (RL) (NON-STAFF)
+	. Trainer - Sergeant Paris Potts (RL) (NON-STAFF)
+	. Trainer - Sergeant Maryam Reese (RL) (NON-STAFF)
+	. Trainer - Sergeant Rudy Mccarty (RL) (NON-STAFF)
+	. Trainer - Sergeant Morgan Barrett (RL) (NON-STAFF)
+	. Trainer - Sergeant Aubrey Keith (RL) (NON-STAFF)
+
+	-- Land Recruiters Team --
+	. Chief Recruiter - Second Lieutenant Skyler Guy (RL)
+	. Recruiter - Corporal Bret Chapman (RL) (NON-STAFF)
+	. Recruiter - Corporal Morgan Hill (RL) (NON-STAFF)
+	. Recruiter - Corporal Robin Graham (RL) (NON-STAFF)
+	. Recruiter - Corporal Brook Henderson (RL) (NON-STAFF)
+	. Recruiter - Corporal Ali Turner (RL) (NON-STAFF)
+	. Recruiter - Corporal Casey Vinson (RL) (NON-STAFF)
+	. Recruiter - Corporal Lynn Davies (RL) (NON-STAFF)
+	. Recruiter - Corporal Carol Lewis (RL) (NON-STAFF)
+
+--------------------------------------------------------------------------
+
+𝑺𝒊𝒈𝒏𝒆𝒅 𝒂𝒏𝒅 𝒂𝒑𝒑𝒓𝒐𝒗𝒆𝒅 𝒃𝒚,
+	CEO & Founder of NSRFC - 𝑊𝑖𝑙𝑏𝑢𝑟 𝑅𝑒𝑎𝑑
+	Chairman of NSRFC - General 𝗕𝗲𝗰𝗸𝗲𝘁𝘁 𝗦𝘆𝗸𝗲𝘀
+	Deputy Chairman of NSRFC - General 𝓢𝓬𝓪𝓻𝓵𝓮𝓽𝓽 𝓜𝓲𝓵𝓵𝓮𝓻
+	Director of Staff of NSRFC - General 𝐻𝛼𝑟𝑟𝜑 𝛤𝜎𝑠𝜀
+	Chief of Personnel of NSRFC - Lieutenant General 𝒟𝑒𝓁 𝒥𝑒𝓃𝓃𝒾𝓃𝑔𝓈
+	Space Commander of NSRFC - Major General 𝛥𝑙𝑙𝜄𝑠𝜎𝜋 𝑆𝜔𝛼𝜋𝑠𝜎𝜋
