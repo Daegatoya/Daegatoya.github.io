@@ -11,7 +11,7 @@ REGULATIONS :
 
 - Severities
 	. MIN(imal) : Physical Training / Suspension (1 week - 1 month) / Base Jail (1 week - 1 month)
-	. MOD(erate) : Suspension (1 month - 6 months) / Jail (1 month - 6 months) / Termination of Position
+	. MOD(erate) : Suspension (1 month - 6 months) / Base Jail (1 month - 6 months) / Termination of Position
 	. MAJ(or) : Termination of Position / Blacklist from NSRFC / National Jail (5 year - 25 years)
 	. CAP(ital) : National Jail (25 years - lifetime) / Identity & Life Force Change / Execution (Secret / Public)
 
