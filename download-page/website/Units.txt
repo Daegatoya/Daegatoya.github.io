@@ -9,8 +9,7 @@
 
 UNITS (POWER ORDER) :
 
-- Head Quarter (HQ)
-		
+- Head Quarter (HQ)		
 	. Directors
 	. Units Commanders
 
