@@ -76,7 +76,7 @@ textarea {
 .background2 {
     width: 100%;
     height: 100%;
-    background-image: url("https://i0.wp.com/aziobot.com/wp-content/uploads/2019/07/adobestock_173905768.jpeg?fit=4000%2C2000&ssl=1");
+    background-image: url("../download-page/images/background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     position: fixed;
